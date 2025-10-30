@@ -1,5 +1,15 @@
-.env Setup
+# Chat Application
 
+A full-stack real-time **Chat Application** built with **Node.js**, **Express**, **MongoDB**, and **React (Vite)**.  
+It includes real-time messaging, authentication, media uploads, and email notifications.
+
+---
+
+## Environment Setup (`.env`)
+
+Create a `.env` file inside your **backend** folder and add the following environment variables:
+
+```env
 PORT=3000
 MONGO_URI=your_mongo_uri_here
 
