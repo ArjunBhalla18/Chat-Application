@@ -1,7 +1,7 @@
 # Chat Application
 
-A full-stack real-time **Chat Application** built with **Node.js**, **Express**, **MongoDB**, and **React (Vite)**.  
-It includes real-time messaging, authentication, media uploads, and email notifications.
+A full-stack real-time **Chat Application** built with MERN- **Node.js**, **Express**, **MongoDB**, and **React**.  
+Includes real-time messaging, user authentication, media sharing.
 
 ---
 
